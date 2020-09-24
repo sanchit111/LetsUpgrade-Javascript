@@ -1,20 +1,20 @@
 let lovable = [{
-    name: "Manisha",
-    age: "21",
+    name: "Sanchit",
+    age: "22",
     country: "India",
-    Hobbies: ['code', 'love', 'sing']
+    Hobbies: ['code', 'love', 'sports']
 }, {
-    name: "Sahul",
-    age: "24",
+    name: "Ram",
+    age: "25",
     country: "India",
-    Hobbies: ['teach', 'love', 'comedy']
+    Hobbies: ['teach', 'love', 'maths']
 }, {
-    name: "Tanvi",
-    age: "20",
+    name: "Tanya",
+    age: "23",
     country: "Indonesia",
-    Hobbies: ['talk', 'love', 'cartoon']
+    Hobbies: ['talk', 'love', 'anime']
 }, {
-    name: "Pooja",
+    name: "Poojan",
     age: "22",
     country: "Japan",
     Hobbies: ['baby', 'love', 'crying']
